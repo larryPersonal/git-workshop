@@ -1,0 +1,4 @@
+chinesetranslate 
+{
+    hello : 'Nihao'
+}
