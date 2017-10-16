@@ -1,3 +1,4 @@
+chinesetranslate :
 {
-    hello : "Nihao"
+    'hello' : 'Nihao'
 }
