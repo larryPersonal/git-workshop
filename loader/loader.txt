@@ -1,0 +1,7 @@
+alert("file to load " + file)
+
+function load(file)
+{
+    //loader code here
+
+}
